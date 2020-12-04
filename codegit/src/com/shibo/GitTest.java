@@ -14,4 +14,8 @@ public class GitTest {
         System.out.println("加油呀 吴士博");
         System.out.println("加油呀 吴士博");
     }
+    public void test02(){
+        System.out.println("加油呀 吴士博");
+        System.out.println("加油呀 吴士博");
+    }
 }
